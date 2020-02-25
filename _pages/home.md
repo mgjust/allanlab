@@ -65,7 +65,7 @@ I am a USDA NIFA Postdoctoral fellow working at North Carolina State University 
 
 
 <figure class="fourth">
-  <img src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-blk-max.png" style="width: 210px">
+  <img src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-blk-max.png" style="width: 200px">
 </figure>
 
 # <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront" style="width: 110px">
