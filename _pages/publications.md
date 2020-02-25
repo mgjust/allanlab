@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Just Ecology - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Just Ecology -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+Full list [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=9ObOkI4AAAAJ&hl=en)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
