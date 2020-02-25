@@ -59,15 +59,6 @@ I am an applied ecologist (mostly) working in plant and insect systems.
 
 
 
-My works spans ecological subdiscplines, my most recent research has focused on a urban tree-insect herbivore system (see [Research](research)).
+My works spans many ecological subdiscplines. My most recent research has focused on a urban tree-insect herbivore system (see [Research](research)).
 
 I am a USDA NIFA Postdoctoral fellow working at North Carolina State University as a memeber of the [Frank Lab]("https://ecoipm.org").
-
-
-<figure class="fourth">
-  <img src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-blk-max.png" style="width: 200px">
-</figure>
-
-# <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront" style="width: 110px">
-# <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO" style="width: 120px">
-# <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC" style="width: 110px">
