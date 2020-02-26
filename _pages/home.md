@@ -8,7 +8,7 @@ permalink: /
 
 I am an applied ecologist (mostly) working in plant and insect systems.
 
-<i class="icon-camera-retro"></i> icon-camera-retro
+<i class="fa fa-camera-retro"></i> fa-camera-retro
 
 
 
