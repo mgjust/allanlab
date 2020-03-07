@@ -19,8 +19,8 @@
   news2:
 
 - title: "Better lucky than good: How savanna trees escape the fire trap in a variable world"
-image: STS_news.png
-description: 
+  image: STS_news.png
+  description: 
   authors: WA Hoffmann, RW Sanders, MG Just, WA Wall, MG Hohmann
   link:
     url: https://doi.org/10.1002/ecy.2895
