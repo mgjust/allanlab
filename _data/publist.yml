@@ -28,6 +28,17 @@
   highlight: 1
   news2:
 
+- title: "Evaluation of an easy-to-install, low-cost dendrometer band for citizen-science tree research"
+  image: STS_news.png
+  description: 
+  authors: MG Just, SD Frank
+  link:
+    url: https://doi.org/10.1093/jofore/fvz026
+    display:  Journal of forestry. 2019. 117(4), 317-322.
+  highlight: 1
+  news2:
+  
+
 # - title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
 #   image: Pub_BCl.png
 #   description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
