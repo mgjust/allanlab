@@ -135,7 +135,7 @@
   link:
     url: https://doi.org/10.1614/IPSM-D-11-00080.1
     display:  Invasive plant science and management. 2013. 6(3), 339-351.
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Current and historical variation in wiregrass (Aristida stricta) abundance and distribution is not detectable from soil δ13C measurements in longleaf pine (Pinus Palustris) savannas"
@@ -155,7 +155,7 @@
   link:
     url: https://doi.org/10.1371/journal.pone.0105600
     display:  Environmental entomology. 2005. 34, 170-177
-  highlight: 1
+  highlight: 0
   news2:
 
 # - title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
