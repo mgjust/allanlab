@@ -1,5 +1,5 @@
 - title: "Can cities activate sleeper species and predict future forest pests? A case study of scale insects"
-  image:
+  image: sleeper.png
   description: 
   authors: SD Frank, MG Just
   link:
@@ -9,7 +9,7 @@
   news2:
 
 - title: "Thermal tolerance of gloomy scale in the eastern USA"
-  image: STS_news.png
+  image: tolerance.png
   description: 
   authors: MG Just, SD Frank
   link:
@@ -19,7 +19,7 @@
   news2:
 
 - title: "Better lucky than good: How savanna trees escape the fire trap in a variable world"
-  image: STS_news.png
+  image: firetrap.png
   description: 
   authors: WA Hoffmann, RW Sanders, MG Just, WA Wall, MG Hohmann
   link:
@@ -29,7 +29,7 @@
   news2:
 
 - title: "Evaluation of an easy-to-install, low-cost dendrometer band for citizen-science tree research"
-  image: STS_news.png
+  image: dendrometer.png
   description: 
   authors: MG Just, SD Frank
   link:
@@ -37,7 +37,127 @@
     display:  Journal of forestry. 2019. 117(4), 317-322.
   highlight: 1
   news2:
+
+- title: "Urbanization drives unique latitudinal patterns of insect herbivory and tree condition"
+  image: unique.png
+  description: 
+  authors: MG Just, LC Long, AG Dale, SD Frank
+  link:
+    url: https://doi.org/10.1111/oik.05874
+    display:  Oikos. 2019. 128, 984-993.
+  highlight: 1
+  news2:
   
+- title: "Human indoor climate preferences approximate specific geographies"
+  image: indoor.png
+  description: 
+  authors: MG Just, LM Nichols, RM Dunn
+  link:
+    url: https://doi.org/10.1098/rsos.180695
+    display:  Royal society open science. 2019. 6, 180695.
+  highlight: 1
+  news2:
+  
+- title: "The role of citizen science in addressing grand challenges in food and agriculture research"
+  image: ag.png
+  description: 
+  authors: Ryan, S. F., N. L. Adamson, A. Aktipis, L. K. Andersen, R. Austin, L. Barnes, M. R. Beasley, K. D. 
+  Bedell, S. Briggs, B. Chapman, C. B. Cooper, J. O. Corn, N. G. Creamer, J. A. Delborne, P. Domenico, E. Driscoll, J. Goodwin, A. Hjarding, J. M. Hulbert, S. Isard, Just, M.G., K. Kar Gupta, M. M. López-Uribe, J. O’Sullivan, E. A. Landis, A. A. Madden, E. A. McKenney, L. M. Nichols, B. J. Reading, S. Russell, N. Sengupta, L. R. Shapiro, L. K. Shell, J. K. Sheard, D. D. Shoemaker, D. M. Sorger, C. Starling, S. Thakur, R. R. Vatsavai, M. Weinstein, P. Winfrey, and R. R. Dunn
+  link:
+    url: https://doi.org/10.1098/rspb.2018.1977
+    display:  Proceedings of the royal society B. 2018. 285, 20181977.
+  highlight: 1
+  news2:
+
+- title: "Impervious surface thresholds for urban tree site selection"
+  image: thresholds.png
+  description: 
+  authors: MG Just, AG Dale, SD Frank
+  link:
+    url: https://doi.org/10.1016/j.ufug.2018.06.008
+    display:  Urban forestry and urban greening. 2018. 34, 141-146
+  highlight: 1
+  news2:
+
+- title: "Invasibility of a fire-maintained savanna–wetland gradient by non-native, woody plant species"
+  image: invade.png
+  description: 
+  authors: MG Just, MG Hohmann, WA Hoffmann
+  link:
+    url: https://doi.org/10.1016/j.foreco.2017.09.052
+    display:  Forest ecology and management. 2017. 405, 229-237.
+  highlight: 1
+  news2:
+
+- title: "Wood decay resistance and the persistence of resprouting species in pyrophilic ecosystems"
+  image: rot.png
+  description: 
+  authors: MG Just, JL Schafer, MG Hohmann, WA Hoffmann
+  link:
+    url: https://doi.org/10.1007/s00468-016-1477-3
+    display:  Trees - structure and function. 2017. 31, 237-245.
+  highlight: 1
+  news2:
+
+- title: "Where fire stops: vegetation structure and microclimate influence fire spread along an ecotonal gradient"
+  image: firestop.png
+  description: 
+  authors: MG Just, MG Hohmann, WA Hoffmann
+  link:
+    url: https://doi.org/10.1007/s11258-015-0545-x
+    display:  Plant ecology. 2016. 217, 631-644.
+  highlight: 1
+  news2:
+
+- title: "Global biogeographic regions in a human-dominated world: the case of human diseases"
+  image: pathogen.png
+  description: 
+  authors: MG Just, JF Norton, AL Traud, T Antonelli, AS Poteate, GA Backus, A Snyder-Beattie, RW Sanders, RR Dunn
+  link:
+    url: https://doi.org/10.1890/ES14-00201.1
+    display:  Ecosphere. 2014. 5, art143.
+  highlight: 1
+  news2:
+
+- title: "Size dependency of post-disturbance recovery of multi-stemmed resprouting trees"
+  image: resprout.png
+  description: 
+  authors: JL Schafer, MG Just
+  link:
+    url: https://doi.org/10.1371/journal.pone.0105600
+    display:  PLOS ONE. 2014. 9(8), e105600
+  highlight: 1
+  news2:
+
+- title: "Prioritizing non-native invasive plant management with a multi-criteria decision analysis"
+  image: mcda.png
+  description: 
+  authors: MG Hohmann, MG Just, P Frank, W Wall, J Gray
+  link:
+    url: https://doi.org/10.1614/IPSM-D-11-00080.1
+    display:  Invasive plant science and management. 2013. 6(3), 339-351.
+  highlight: 1
+  news2:
+
+- title: "Current and historical variation in wiregrass (Aristida stricta) abundance and distribution is not detectable from soil δ13C measurements in longleaf pine (Pinus Palustris) savannas"
+  image: soilcarbon.png
+  description: 
+  authors: JL Schafer, BP Breslow, MG Just, MG Hohmann, SN Hollingsworth, SL Swatling-Holcomb, WA Hoffmann
+  link:
+    url: https://doi.org/10.2179/12-021
+    display:  Castanea. 2013. 78(1), 28-36.
+  highlight: 1
+  news2:
+
+- title: "Sampling Aphis glycines (Homoptera: Aphidae) in soybean fields in Illinois"
+  image: aphid.png
+  description: 
+  authors: DW Onstad, S Fang, DJ Voegtlin, MG Just
+  link:
+    url: https://doi.org/10.1371/journal.pone.0105600
+    display:  Environmental entomology. 2005. 34, 170-177
+  highlight: 1
+  news2:
 
 # - title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
 #   image: Pub_BCl.png
