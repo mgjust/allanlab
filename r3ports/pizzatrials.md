@@ -79,63 +79,25 @@ Last time I made a sponge with 70g each flour and water and 4g yeast. I mixed th
 
 ***
 # Pics
-<div class="w3-row-padding w3-margin-top">
-  <div class="w3-half">
-    <div class="w3-card">
-      <img src="https://mgjust.github.io/r3ports/fimages/DPizza1.jpg" style="width:100%">
-      <div class="w3-container">
-        <h5>Manarola</h5>
-      </div>
-    </div>
-  </div>
-
-<div class="w3-half">
-    <div class="w3-card">
-      <img src="https://mgjust.github.io/r3ports/fimages/DPizza1.jpg" style="width:100%">
-      <div class="w3-container">
-        <h5>Manarolxa</h5>
-      </div>
-    </div>
-  </div>
-
-<div class="w3-half">
-    <div class="w3-card">
-      <img src="https://mgjust.github.io/r3ports/fimages/DPizza1.jpg" style="width:100%">
-      <div class="w3-container">
-        <h5>Manarxla</h5>
-      </div>
-    </div>
-  </div>
-
-<div class="w3-half">
-    <div class="w3-card">
-      <img src="https://mgjust.github.io/r3ports/fimages/DPizza1.jpg" style="width:100%">
-      <div class="w3-container">
-        <h5>Manarxola</h5>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-
-
 First
 <br>
-<img src="https://mgjust.github.io/r3ports/fimages/DPizza1.jpg" style="width:75%"/>
+<img src="https://mgjust.github.io/r3ports/fimages/DPizza1.jpg" style="width:66%"/>
 <br>
 
 Second
 <br>
-<img src="https://mgjust.github.io/r3ports/fimages/DPizza2.jpg" class="img-responsive" width="40%" style="float: left" />
+<img src="https://mgjust.github.io/r3ports/fimages/DPizza2.jpg" style="width:66%" />
 <br>
 
 Third (upper right, gluten free)
 <br>
-<img src="https://mgjust.github.io/r3ports/fimages/DPizza3.jpg" class="img-responsive" width="50%" style="float: left" />
+<img src="https://mgjust.github.io/r3ports/fimages/DPizza3.jpg" style="width:66%"/>
 <br>
 
 Fourth
 <br>
-<img src="https://mgjust.github.io/r3ports/fimages/DPizza4.jpg" class="img-responsive" width="40%" style="float: left" />
+<img src="https://mgjust.github.io/r3ports/fimages/DPizza4.jpg" style="width:66%"/>
+
+<br>
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
