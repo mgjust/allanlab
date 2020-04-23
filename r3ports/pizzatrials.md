@@ -74,15 +74,19 @@ Last time I made a sponge with 70g each flour and water and 4g yeast. I mixed th
 
 # Pics
 First
-![pizza1](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza1.jpg){ width=50% height=50% }
+
+![pizza1](https://mgjust.github.io/r3ports/fimages/DPizza1.jpg){ width=50% height=50% }
 
 Second
-![pizza2](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza2.jpg){ width=50% height=50% }
+
+![pizza2](https://mgjust.github.io/r3ports/fimages/DPizza2.jpg){ width=50% height=50% }
 
 Third (upper right, gluten free)
-![pizza3](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza3.jpg)
+
+![pizza3](https://mgjust.github.io/r3ports/fimages/DPizza3.jpg)
 
 Fourth
-![pizza4](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza4.jpg){ width=50% height=50% }
+
+![pizza4](https://mgjust.github.io/r3ports/fimages/DPizza4.jpg){ width=50% height=50% }
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
