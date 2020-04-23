@@ -74,20 +74,22 @@ Last time I made a sponge with 70g each flour and water and 4g yeast. I mixed th
 
 # Pics
 First
-
-![pizza1](https://mgjust.github.io/r3ports/fimages/DPizza1.jpg){ width=50% height=50% }
-<img src="https://mgjust.github.io/r3ports/fimages/DPizza1.jpg" class="img-responsive" width="33%" style="float: left" />
+<br>
+<img src="https://mgjust.github.io/r3ports/fimages/DPizza1.jpg" class="img-responsive" width="40%" style="float: left" />
+<br>
 
 Second
-
-![pizza2](https://mgjust.github.io/r3ports/fimages/DPizza2.jpg){ width=50% height=50% }
+<br>
+<img src="https://mgjust.github.io/r3ports/fimages/DPizza2.jpg" class="img-responsive" width="40%" style="float: left" />
+<br>
 
 Third (upper right, gluten free)
-
-![pizza3](https://mgjust.github.io/r3ports/fimages/DPizza3.jpg)
+<br>
+<img src="https://mgjust.github.io/r3ports/fimages/DPizza3.jpg" class="img-responsive" width="50%" style="float: left" />
+<br>
 
 Fourth
-
-![pizza4](https://mgjust.github.io/r3ports/fimages/DPizza4.jpg){ width=50% height=50% }
+<br>
+<img src="https://mgjust.github.io/r3ports/fimages/DPizza4.jpg" class="img-responsive" width="40%" style="float: left" />
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
