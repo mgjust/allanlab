@@ -76,6 +76,7 @@ Last time I made a sponge with 70g each flour and water and 4g yeast. I mixed th
 First
 
 ![pizza1](https://mgjust.github.io/r3ports/fimages/DPizza1.jpg){ width=50% height=50% }
+<img src="https://mgjust.github.io/r3ports/fimages/DPizza1.jpg" class="img-responsive" width="33%" style="float: left" />
 
 Second
 
