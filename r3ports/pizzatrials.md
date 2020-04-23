@@ -1,8 +1,22 @@
+- [Detroit-ish style pizza](#detroit-ish-style-pizza)
+  * [Reference recipes](#reference-recipes)
+- [Ingredients](#ingredients)
+  * [Dough](#dough)
+  * [Sauce](#sauce)
+  * [Cheese](#cheese)
+- [Process](#process)
+  * [Pan prep](#pan-prep)
+  * [Dough](#dough-1)
+  * [Sauce](#sauce-1)
+- [Putting it all together](#putting-it-all-together)
+- [Notes](#notes)
+- [Pics](#pics)
+
 # Detroit-ish style pizza
+
 ## Reference recipes
 1. J. KENJI LÓPEZ-ALT - Serious Eats - https://www.seriouseats.com/recipes/2017/02/detroit-style-pizza-recipe.html
 2. Cook's Country - https://bit.ly/2VPwznq
-<br><br>
 I basically used the recipe from Serious Eats and the technique from Cook's Country. But, I've made a few adjustments to fit my preferences. I've never had a real Detroit-style pizza... 
 
 # Ingredients
@@ -14,7 +28,6 @@ I basically used the recipe from Serious Eats and the technique from Cook's Coun
 
 ## Sauce
 This makes more than you need for one pizza.
-<br><br>
 
 1. 28 oz can crushed tomoatoes
 2. 2 T olive oil
@@ -34,7 +47,6 @@ Read about it. I have used whatever. Usually mozzarella and cheddar, but have us
 
 ## Dough
 Use a stand mixer with the dough hook. 
-<br><br>
 
 1. Combine flour and yeast on low speed until well combined
 2. Leave the mixer running and slowly add water (not cold) and mix until dough forms about 1-2 minutes (scrape down bowl if needed). 
@@ -62,15 +74,14 @@ Last time I made a sponge with 70g each flour and water and 4g yeast. I mixed th
 # Pics
 First
 ![alt text](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza1.jpg "Pizza")
-<br><br>
 
 Second
 ![alt text](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza2.jpg "Pizza")
-<br><br>
 
 Third (upper right, gluten free)
 ![alt text](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza3.jpg "Pizza")
-<br><br>
 
 Fourth
 ![alt text](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza4.jpg "Pizza")
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
