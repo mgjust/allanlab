@@ -17,6 +17,7 @@
 ## Reference recipes
 1. [J. KENJI LÓPEZ-ALT - Serious Eats](https://www.seriouseats.com/recipes/2017/02/detroit-style-pizza-recipe.html)
 2. [Cook's Country](https://bit.ly/2VPwznq)
+
 I basically used the recipe from Serious Eats and the technique from Cook's Country. But, I've made a few adjustments to fit my preferences. I've never had a real Detroit-style pizza... 
 
 # Ingredients
@@ -73,15 +74,15 @@ Last time I made a sponge with 70g each flour and water and 4g yeast. I mixed th
 
 # Pics
 First
-![alt text](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza1.jpg "Pizza")
+![pizza1](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza1.jpg){ width=50% height=50% }
 
 Second
-![alt text](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza2.jpg "Pizza")
+![pizza2](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza2.jpg){ width=50% height=50% }
 
 Third (upper right, gluten free)
-![alt text](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza3.jpg "Pizza")
+![pizza3](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza3.jpg)
 
 Fourth
-![alt text](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza4.jpg "Pizza")
+![pizza4](https://github.com/mgjust/mgjust.github.io/blob/master/r3ports/fimages/DPizza4.jpg){ width=50% height=50% }
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
