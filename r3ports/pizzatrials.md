@@ -12,6 +12,7 @@
 - [Notes](#notes)
 - [Pics](#pics)
 
+***
 # Detroit-ish style pizza
 
 ## Reference recipes
@@ -20,6 +21,7 @@
 
 I basically used the recipe from Serious Eats and the technique from Cook's Country. But, I've made a few adjustments to fit my preferences. I've never had a real Detroit-style pizza... 
 
+***
 # Ingredients
 ## Dough
 1. 270g AP flour
@@ -42,6 +44,7 @@ This makes more than you need for one pizza.
 ## Cheese
 Read about it. I have used whatever. Usually mozzarella and cheddar, but have used jack and muenster. Sliced muenster make have worked the best. I don't put as much on as the recipes because I am eating all of this by myself usually. 
 
+***
 # Process
 ## Pan prep
 1. Spray 9x13" nonstick baking pan with vegetable oil; then coat pan with 1-2 T olive oil
@@ -62,6 +65,7 @@ Use a stand mixer with the dough hook.
 1. Combine all ingredients in a sauce pan and simmer.
 2. Reduce until you like the thickness.
 
+***
 # Putting it all together
 1. Parbake the pizza crust for 5 minutes at 500. I do this because I feel like the dough deflates too much otherwise and because I put the sauce on the dough.
 2. Add toppings, sauce, cheese, etc. The first time I made it I put the sauce on top of the cheese. But now I put it beneath. Make sure cheese is on the edges of the pan.
@@ -69,9 +73,11 @@ Use a stand mixer with the dough hook.
 4. Cool pizza in pan on wire rack for 5 minutes 
 5. Use spatula to slide pizza onto cutting board
 
+***
 # Notes
 Last time I made a sponge with 70g each flour and water and 4g yeast. I mixed this into the dough after about 6 hours, I think I liked this the best so far. Subtract sponge amounts from total. I often put the pan ontop of a heating pad if the dough is rising slowly.
 
+***
 # Pics
 First
 <br>
