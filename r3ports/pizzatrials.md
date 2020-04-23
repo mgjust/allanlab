@@ -15,8 +15,8 @@
 # Detroit-ish style pizza
 
 ## Reference recipes
-1. J. KENJI LÓPEZ-ALT - Serious Eats - https://www.seriouseats.com/recipes/2017/02/detroit-style-pizza-recipe.html
-2. Cook's Country - https://bit.ly/2VPwznq
+1. [J. KENJI LÓPEZ-ALT - Serious Eats](https://www.seriouseats.com/recipes/2017/02/detroit-style-pizza-recipe.html)
+2. [Cook's Country](https://bit.ly/2VPwznq)
 I basically used the recipe from Serious Eats and the technique from Cook's Country. But, I've made a few adjustments to fit my preferences. I've never had a real Detroit-style pizza... 
 
 # Ingredients
