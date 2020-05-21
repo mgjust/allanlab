@@ -55,8 +55,7 @@ permalink: /
 </div>
 
 
-I am an applied ecologist and my works spans many ecological subdiscplines. Most of my research has been in plant and insect systems.
+I am an applied ecologist and my works spans many ecological subdiscplines. Most of my [research](research) has been in plant and insect systems.
 
-My most recent research has been focused on a urban tree-insect herbivore system (see [Research](research)).
 
-I am research ecologist for USACE ERDC-CERL and a visiting scientist in the [Frank Lab](http://ecoipm.org) at North Carolina State University.
+I am a research ecologist for USACE ERDC-CERL and a visiting scholar in the [Frank Lab](http://ecoipm.org) at North Carolina State University.
