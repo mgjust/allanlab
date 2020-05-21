@@ -55,8 +55,8 @@ permalink: /
 </div>
 
 
-I am an applied ecologist and my works spans many ecological subdiscplines Most of my research has been in plant and insect systems.
+I am an applied ecologist and my works spans many ecological subdiscplines. Most of my research has been in plant and insect systems.
 
 My most recent research has been focused on a urban tree-insect herbivore system (see [Research](research)).
 
-I am a USDA NIFA Postdoctoral fellow working at North Carolina State University as a member of the [Frank Lab](http://ecoipm.org).
+I am research ecologist for USACE ERDC-CERL and a visiting scientist in the [Frank Lab](http://ecoipm.org) at North Carolina State University.
