@@ -1,12 +1,12 @@
 - title: "Gloomy Scale (Hemiptera: Diaspididae) Ecology and Management on Landscape Trees"
-  image: 
+  image: gr.png
   description: 
   authors: MG Just, AG Dale, SD Frank
   link:
     url: https://doi.org/10.1093/jipm/pmaa028
     display:  Journal of Integrated Pest Management. 2020. 11(1), 24.
   highlight: 1
-  news2: We discuss the paper in this <a href = "https"://doi.org/10.1093/jipm/pmaa028">Entomology Today blog post</a> by Dr. David Coyle.
+  news1: We discuss gloomy scales, IPM, and the paper in this <a href = "https://doi.org/10.1093/jipm/pmaa028">Entomology Today blog post</a> by Dr. David Coyle.
 
 - title: "Can cities activate sleeper species and predict future forest pests? A case study of scale insects"
   image: sleeper.png
@@ -16,7 +16,7 @@
     url: https://doi.org/10.3390/insects11030142
     display:  Insects. 2020. 11(3), 142.
   highlight: 1
-  news2:
+  news1:<a href = "https://ecoipm.org/2020/03/16/sleepless-in-the-city-urban-heat-wakes-up-tree-pests/"> Sleepless in the city| Urban heat wakes up tree pests - blogpost on EcoIPM.org</a>
 
 - title: "Thermal tolerance of gloomy scale in the eastern USA"
   image: tolerance.png
@@ -26,7 +26,7 @@
     url: https://doi.org/10.1093/ee/nvz154
     display:  Environmental Entomology. 2020. 49(1), 104-114.
   highlight: 1
-  news2:
+  news1:<a href = "https://ecoipm.org/2020/05/05/gloomy-locks-and-the-three-cities/">Gloomy-locks and the three cities - blogpost on EcoIPM.org</a>
 
 - title: "Better lucky than good: How savanna trees escape the fire trap in a variable world"
   image: firetrap.png
